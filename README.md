@@ -2,7 +2,8 @@ Hi there
 ```
 
 I'm Yen, a trilingual (Vietnamese, English, Korean) that 
-currently working on adding more coding languages to the list 🙌
+currently working on adding more coding languages to my skill set 🙌.
+Exploring the endless possibilities of technology and enjoying the journey of continuous learning! Check out my projects and let's connect!"
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyenph&show_icons=true&theme=cobalt)
 
